@@ -1,0 +1,18 @@
+site_name: Entornos de Desarrollo 1º CFGS DAM-DAW
+site_url: https://dcsibon.github.io/entornosdesarrollo/
+repo_url: https://github.com/dcsibon/entornosdesarrollo
+
+nav:
+  - Home: index.md
+  - U1 Introducción: 1_intro.md
+  - U2 Eclipse: 2_eclipse.md
+  - U3 Git: 3_git.md
+  - U4 Diagramas de Clases (UML): 4_diagramas_clases.md
+  - U5 Documentación con JavaDoc: 5_javaDoc.md
+  - U6 Pruebas del software: 6_pruebas.md
+  - U7 Principios SOLID: 7_solid.md
+  - Prácticas: practicas_modulo.md
+
+theme:
+  name: material
+  language: es
